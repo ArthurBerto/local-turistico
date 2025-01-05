@@ -116,6 +116,10 @@ li span {
     font-weight: 700;
 }
 
+ul li::marker {
+    color: #333333;
+}
+
 #content-card ul li {
     list-style-position: inside;
     list-style-type: disc;
