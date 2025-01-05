@@ -13,4 +13,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
+Acesse o site clicando ▶️[AQUI!](https://arthurberto.github.io/local-turistico/)◀️
+
 Feito com ♥ by Arthur Berto
